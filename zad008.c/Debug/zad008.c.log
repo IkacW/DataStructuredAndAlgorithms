@@ -1,0 +1,4 @@
+﻿  zad008neki.c
+J:\repos\npm\zad008.c\zad008neki.c(54,44): warning C4101: 'value': unreferenced local variable
+J:\repos\npm\zad008.c\zad008neki.c(54,35): warning C4101: 'trenDuz': unreferenced local variable
+  zad008.c.vcxproj -> J:\repos\npm\Debug\zad008neki.exe
