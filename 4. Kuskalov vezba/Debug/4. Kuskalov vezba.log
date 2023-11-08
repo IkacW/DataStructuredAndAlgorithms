@@ -1,0 +1,4 @@
+﻿  Source.c
+J:\repos\npm\4. Kuskalov vezba\Source.c(63): warning C4716: 'bsort': must return a value
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+J:\repos\npm\Debug\4. Kuskalov vezba.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,3 @@
+﻿  Source.c
+J:\repos\npm\5. Bellman obnova\Source.c(65,25): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  5. Bellman obnova.vcxproj -> J:\repos\npm\Debug\5. Bellman obnova.exe
