@@ -1,0 +1,4 @@
+﻿  Source.c
+J:\repos\npm\3. Linked List to Binary Tree\Source.c(95): warning C4715: 'convertListToBinaryTree': not all control paths return a value
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+J:\repos\npm\Debug\3. Linked List to Binary Tree.exe : fatal error LNK1120: 1 unresolved externals

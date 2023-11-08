@@ -1,0 +1,4 @@
+﻿  Source.c
+J:\repos\npm\1. Osnovno o Grafovima\Source.c(37,23): warning C4101: 'node': unreferenced local variable
+J:\repos\npm\1. Osnovno o Grafovima\Source.c(37,32): warning C4101: 'i': unreferenced local variable
+  1. Osnovno o Grafovima.vcxproj -> J:\repos\npm\Debug\097zad.exe

@@ -1,0 +1,5 @@
+﻿  Source.c
+J:\repos\npm\3. Kosaraju's algorith\Source.c(35,13): warning C4013: 'insertEdge' undefined; assuming extern returning int
+Source.obj : error LNK2019: unresolved external symbol _insertEdge referenced in function _buildGraph
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+J:\repos\npm\Debug\3. Kosaraju's algorithm.exe : fatal error LNK1120: 2 unresolved externals
