@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Topological Sort.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.c
+J:\repos\npm\Topological Sort\Source.c(176,1): warning C4005: 'MAX': macro redefinition
+J:\repos\npm\Topological Sort\Source.c(7): message : see previous definition of 'MAX'
+  Topological Sort.vcxproj -> J:\repos\npm\Debug\2. Topological Sort.exe
